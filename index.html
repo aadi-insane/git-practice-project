@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Git Practice Project</title>
+
+  <style>
+    #heading {
+      color: blue;
+      font-size: 30px;
+    }
+
+    #paragraph {
+      color: black;
+      font-size: 40px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1 id="heading">Hello, World! I am Aditya Aerpule.</h1>
+  <p id="paragraph">I have created this HTML page using Nano editor in Ubuntu.</p>
+
+  <label for="textbox">Button click Times</label>
+  <input type="text" id="textbox" placeholder="0" style="width:20px">
+  <button onclick="updateMessage()" id="button">Click Me</button>
+
+<script>
+	let count = 0;
+	function updateMessage(){
+	count++;
+	document.getElementById("textbox").value=count;
+	}
+</script>
+
+</body>
+</html>
+
