@@ -1,1 +1,6 @@
 This is a text file
+JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+DAY3VAR=/home/rails/Aditya/Syllabus/Day-3
+*.swp
+*.save
+*.class
