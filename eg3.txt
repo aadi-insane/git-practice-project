@@ -1,0 +1,1 @@
+Hi this is eg3.txt file which is an example file to practice git commands.
