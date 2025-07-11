@@ -1,3 +1,11 @@
 *.swp
 *.save
 *.class
+
+*.tmp
+*.log
+
+temp/
+
+secret.txt
+
