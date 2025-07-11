@@ -1,1 +1,4 @@
 Hi this is eg3.txt file which is an example file to practice git commands.
+
+
+I am making some changes here to see how --amend works.
